@@ -1,5 +1,5 @@
 # Python
-General 
+Genelleme 
 Shadows
 +Ender Elverdi 
 a=50
